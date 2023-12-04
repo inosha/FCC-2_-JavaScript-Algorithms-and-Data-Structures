@@ -1,2 +1,2 @@
-# FCC-2_-JavaScript-Algorithms-and-Data-Structures
+# FCC-2_JavaScript-Algorithms-and-Data-Structures
 FreeCodeCamp - JavaScript Algorithms and Data Structures
